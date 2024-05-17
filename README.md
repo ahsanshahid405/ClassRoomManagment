@@ -1,7 +1,7 @@
 # Overview
 The Classroom Management System is an application designed to facilitate the management of classrooms, teachers, students, assignments, and submissions. It provides functionalities for user authentication, class creation, assignment management, and submission tracking.
 
-#Features
+# Features
 * User Management: Registration and authentication for students and teachers.
 * Class Management: Create, view, update, and delete classes.
 * Assignment Management: Create, manage, and evaluate assignments.
